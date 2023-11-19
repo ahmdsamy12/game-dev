@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/game-dev/static/css/main.f20883bf.css",
+    "main.js": "/game-dev/static/js/main.d1388409.js",
+    "static/media/hero-image1 1.png": "/game-dev/static/media/hero-image1 1.084913f7e948b9927630.png",
+    "static/media/Rectangle 7.png": "/game-dev/static/media/Rectangle 7.a5d8e7f96db94a9dc58a.png",
+    "static/media/Rectangle 8.png": "/game-dev/static/media/Rectangle 8.beca42d4a83f7000b42c.png",
+    "static/media/Testimonial Image.png": "/game-dev/static/media/Testimonial Image.87ec2f53ac1ad7ab6065.png",
+    "static/media/Testimonial Image1.png": "/game-dev/static/media/Testimonial Image1.7f281b5b81e175175193.png",
+    "index.html": "/game-dev/index.html",
+    "main.f20883bf.css.map": "/game-dev/static/css/main.f20883bf.css.map",
+    "main.d1388409.js.map": "/game-dev/static/js/main.d1388409.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f20883bf.css",
+    "static/js/main.d1388409.js"
+  ]
+}
